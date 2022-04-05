@@ -1,2 +1,2 @@
-# BinaryClassification
-Modelo de clasificación binario. California Housing Dataset
+# California Housing
+Modelo de clasificación binario y PMC (Perceptrón multicapa) con la API Secuancial
